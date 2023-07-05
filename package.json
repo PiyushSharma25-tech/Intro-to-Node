@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "mysql": "^2.18.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodefiles",
+  "version": "18.1.0",
+  "description": "simple web App",
+  "main": "Exploringurl.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiyushSharma25-tech/Intro-to-Node.git"
+  },
+  "author": "Piyush Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PiyushSharma25-tech/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/PiyushSharma25-tech/Intro-to-Node#readme"
 }
